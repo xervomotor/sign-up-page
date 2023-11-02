@@ -1,0 +1,40 @@
+main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.left {
+    width: 40vw;
+}
+
+.right {
+    padding: 10%;
+}
+
+img {
+   max-width: 100%;
+}
+
+input, label {
+    display: block;
+}
+
+div.name-input div {
+    display: inline-block;
+}
+
+.log-in {
+    display: inline-block;
+}
+
+button.log-in {
+    background-color: transparent;
+    border: none;
+    color: chocolate;
+}
+
+button.log-in:hover {
+    color: coral;
+    cursor: pointer;
+}
