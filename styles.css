@@ -24,11 +24,6 @@ body, html {
     object-fit: cover;
 }
 
-.form-side {
-    padding: 2rem;
-    box-sizing: border-box;
-}
-
 h2 {
     margin-bottom: 1rem;
     font-size: 2rem;
